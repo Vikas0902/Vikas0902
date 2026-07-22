@@ -44,7 +44,7 @@ More projects on Python data structures, DSA pattern recognition, and investment
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas0902&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas0902&theme=tokyonight&hide_border=true" />
+ <img src="https://streak-stats.demolab.com/?user=Vikas0902&theme=tokyonight&hide_border=true" />
 </p>
 
 🎯 Currently
