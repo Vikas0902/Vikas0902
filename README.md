@@ -29,7 +29,7 @@ Tools: Git & GitHub · VS Code · Google Colab · Notion
 
 📌 Featured Projects
 
-ProjectDescription🎓 Campus Course & Records Manager (CCRM)Java-based system for managing campus courses and student records🔍 OSS AuditShell-scripted open-source auditing utility📊 Students Skills Gap AnalyzerAnalyzing skill gaps across student cohorts🤖 Exam SaathiAI-powered chatbot to help students prep smarter for exams
+ProjectDescription🎓 Campus Course & Records Manager (CCRM)Java-based system for managing campus courses and student records🔍 OSS AuditShell-scripted open-source auditing utility📊 Students Skills Gap AnalyzerAnalyzing skill gaps across student cohorts🤖 Exam SaathiAI-powered chatbot to help students prep smarter for exams.
 
 
 More projects on Python data structures, DSA pattern recognition, and investment tracking tools are in the works — check back soon!
