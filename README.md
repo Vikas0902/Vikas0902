@@ -35,13 +35,10 @@ More projects on Python data structures, DSA pattern recognition, and investment
 
 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikas0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas0902&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Vikas0902&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+
+![](https://github-readme-stats.shion.dev/api?username=Vikas0902&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vikas0902&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vikas0902&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 🎯 Currently
 
@@ -53,4 +50,4 @@ More projects on Python data structures, DSA pattern recognition, and investment
 
 
 
-<p align="center"><i>"Consistency beats intensity."</i></p>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
