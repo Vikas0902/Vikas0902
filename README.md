@@ -53,5 +53,6 @@ More projects on Python data structures, DSA pattern recognition, and investment
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,150:2c5364&height=150&section=footer" style="width:1500px;"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,150:2c5364&height=150&section=footer" style="width:1500px;"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" style="width:1500px;"/>
 
