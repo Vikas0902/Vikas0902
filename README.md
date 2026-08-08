@@ -40,7 +40,8 @@ More projects on Python data structures, DSA pattern recognition, and investment
 
 
 ![](https://github-readme-stats.shion.dev/api?username=Vikas0902&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=Vikas0902&theme=dark)<br/>
+![](https://streak-stats.demolab.com?user=Vikas0902&theme=dark)()
+<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vikas0902&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 🎯 Currently
